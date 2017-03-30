@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "简单工厂模式", "简单工厂模式\简单工厂模式.vcxproj", "{A93DE74D-DB94-4B64-9275-17A96B3E568F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "工厂模式", "工厂模式\工厂模式.vcxproj", "{6343FD30-7378-4D85-80E0-0E7654D82423}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{A93DE74D-DB94-4B64-9275-17A96B3E568F}.Release|x64.Build.0 = Release|x64
 		{A93DE74D-DB94-4B64-9275-17A96B3E568F}.Release|x86.ActiveCfg = Release|Win32
 		{A93DE74D-DB94-4B64-9275-17A96B3E568F}.Release|x86.Build.0 = Release|Win32
+		{6343FD30-7378-4D85-80E0-0E7654D82423}.Debug|x64.ActiveCfg = Debug|x64
+		{6343FD30-7378-4D85-80E0-0E7654D82423}.Debug|x64.Build.0 = Debug|x64
+		{6343FD30-7378-4D85-80E0-0E7654D82423}.Debug|x86.ActiveCfg = Debug|Win32
+		{6343FD30-7378-4D85-80E0-0E7654D82423}.Debug|x86.Build.0 = Debug|Win32
+		{6343FD30-7378-4D85-80E0-0E7654D82423}.Release|x64.ActiveCfg = Release|x64
+		{6343FD30-7378-4D85-80E0-0E7654D82423}.Release|x64.Build.0 = Release|x64
+		{6343FD30-7378-4D85-80E0-0E7654D82423}.Release|x86.ActiveCfg = Release|Win32
+		{6343FD30-7378-4D85-80E0-0E7654D82423}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
