@@ -142,11 +142,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="N85.h" />
+    <ClInclude Include="N95.h" />
     <ClInclude Include="N96.h" />
     <ClInclude Include="nokia.h" />
+    <ClInclude Include="NokiaSimpleFactory.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FactoryTest.cpp" />
+    <ClCompile Include="N85.cpp" />
+    <ClCompile Include="N95.cpp" />
+    <ClCompile Include="N96.cpp" />
     <ClCompile Include="nokia.cpp" />
+    <ClCompile Include="NokiaSimpleFactory.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

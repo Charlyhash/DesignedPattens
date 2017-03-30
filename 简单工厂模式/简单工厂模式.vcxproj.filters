@@ -21,9 +21,33 @@
     <ClInclude Include="N96.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="N95.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NokiaSimpleFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="N85.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="nokia.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="N96.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="N95.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NokiaSimpleFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="N85.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FactoryTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
