@@ -24,7 +24,7 @@
     <ClCompile Include="test_singleton_thread_safe.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ISingleton.h" />
+    <ClInclude Include="SingletonTemplate.h" />
     <ClInclude Include="Signaleton.h" />
     <ClInclude Include="SingletonInstance.h" />
     <ClInclude Include="SingletonThreadSafe.h" />

@@ -29,13 +29,13 @@
     <ClInclude Include="SingletonThreadSafe.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="ISingleton.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="Signaleton.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="SingletonInstance.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SingletonTemplate.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

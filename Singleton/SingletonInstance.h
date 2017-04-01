@@ -1,5 +1,5 @@
 #pragma once
-#include "ISingleton.h"
+#include "SingletonTemplate.h"
 
 class SingletonInstance:public ISingleton<SingletonInstance>
 {
