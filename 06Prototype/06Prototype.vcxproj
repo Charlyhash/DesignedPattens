@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="prototype_resume_test.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{8B2682FB-7F0D-495C-A791-16E3E39B07F8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -142,13 +145,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="prototype.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="prototype.cpp" />
-    <ClCompile Include="PrototypeTest.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
