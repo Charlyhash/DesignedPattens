@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SingletonThreadSafe.cpp" />
     <ClCompile Include="test_singleton.cpp" />
     <ClCompile Include="test_singleton_thread_safe.cpp" />
   </ItemGroup>
