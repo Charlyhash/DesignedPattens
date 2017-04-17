@@ -4,25 +4,25 @@ using namespace std;
 class Scanner
 {
 public:
-	void Scan() { cout << "词法分析" << endl; }
+	void Scan() { cout << "词法分析..." << endl; }
 };
 
 class Parser
 {
 public:
-	void Parse() { cout << "语法分析" << endl; }
+	void Parse() { cout << "语法分析..." << endl; }
 };
 
 class GenMidCode
 {
 public:
-	void GenCode() { cout << "中间代码生成" << endl; }
+	void GenCode() { cout << "中间代码生成..." << endl; }
 };
 
 class GenachineCode
 {
 public:
-	void GenCode() { cout << "机器码生成" << endl; }
+	void GenCode() { cout << "机器码生成..." << endl; }
 };
 
 //高层接口
